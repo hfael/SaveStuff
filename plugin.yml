@@ -1,0 +1,10 @@
+name: SaveStuff
+main: fr.fael.savestuff.main.SaveStuff
+author: Fael
+version: 1
+commands:
+   savestuff:
+      description: Commande du plugin SaveStuff
+      usage: /<command>
+      permission: [savestuff.use, savestuff.*]
+      aliases: ss
